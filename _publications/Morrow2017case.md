@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Directly Fabricating Soft Robotic Actuators With an Open-Source 3-D Printer."
 collection: publications
 permalink: /publication/Morrow2017case
 excerpt: 'This work demonstrates a basic silicone 3D printing method.'
