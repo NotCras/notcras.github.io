@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "John Morrow"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "PhD Student at Oregon State University in Robotics Engineering."
   location         : "Corvallis, Oregon"
   employer         :
