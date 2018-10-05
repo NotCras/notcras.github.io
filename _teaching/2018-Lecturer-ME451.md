@@ -8,6 +8,8 @@ date: 2018-09-25
 location: "Corvallis, Oregon"
 ---
 
+
+
 Class Topic
 ======
 This class covers the introduction to using and developing sensor systems. Students attend lectures and take quizzes on the material. There is also a significant lab portion, where students get hands on experience working with sensors and collecting real data.
