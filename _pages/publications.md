@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+My publications are below. Please click on the title for more information, such as the abstract. 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
