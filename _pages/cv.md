@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-An up to date CV can be found here: [link](/files/JFMorrow_CV_20181005.pdf).
+An up to date CV can be found here: [link](/files/JFMorrow_CV_20181005.pdf)
