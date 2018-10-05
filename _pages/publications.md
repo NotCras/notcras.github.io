@@ -16,3 +16,5 @@ My publications are below. Please click on the title for more information, such 
   {% include archive-single.html %}
   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 {% endfor %}
+
+You have looked over the entire list of my publications!
