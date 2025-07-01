@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About John
-tagline: Meet John Morrow on his personal website
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: John F Morrow IV, PhD
+description: John F Morrow IV personal webpage
 ---
 
+<img src="assets/bio-photo.jpg" alt="John Morrow" width="200"/>
+
 Email: john.f.morrow.4th@gmail.com
+
 LinkedIn: [link](https://www.linkedin.com/in/jfmorrow4/)
+
 ORCID: [link](https://orcid.org/0000-0003-3868-7162)
 
 John is testing a new webpage. I apologize for any issues!
@@ -17,10 +20,9 @@ John also has a Masters in Robotics Engineering from OSU, advised by Yigit Mengu
 
 John's next steps after PhD were to a Postdoc at Amazon Robotics, where he continued to characterize robot hands and utilize human studies. John also developed an interest, and got experience in, using haptic control devices to control manipulator robots for policy demonstrations. John also got good at making rigorous itemsets.
 
-An up to date resume can be found here: link
+An up to date resume can be found here: <span style="color:blue"> [link](/assets/jfmorrow_resume_current.pdf) </span>
 
-If you're interested in what he's like outside of work, his current hobbies include: ...
-
+If you're interested in what he's like outside of work, his current hobbies include: Birding, Table Tennis, Harmonica, Singing, 3D printing, Hobbyist Flashlights, Backpacks, Teaching robotics, my two boys
 
 ---
 
