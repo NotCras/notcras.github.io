@@ -1,0 +1,73 @@
+# -----------------------------------------------------------------------------
+# Site Settings
+# -----------------------------------------------------------------------------
+title: "John F Morrow IV, PhD"
+title_separator: "-"
+subtitle: "Robotics Engineer & Research Scientist"
+name: "John F Morrow IV"
+description: "Personal website, research projects, and blog."
+url: "https://notcras.github.io" # Replace with your GitHub username
+baseurl: "" # Leave empty if hosting at root (YOURUSERNAME.github.io)
+
+# Remote Theme Integration
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # Skins: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise"
+
+# -----------------------------------------------------------------------------
+# Author / Sidebar Profile Settings
+# -----------------------------------------------------------------------------
+author:
+  name: "John F Morrow IV"
+  avatar: "/assets/images/bio-photo.jpg" # Path to your image in your repo
+  bio: "Robotics engineer exploring control systems, manipulation, and data."
+  location: "Boston, MA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/notcras"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/jfmorrow4"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com"
+
+# -----------------------------------------------------------------------------
+# Site Navigation & Layout
+# -----------------------------------------------------------------------------
+locale: "en-US"
+navigation:
+  main:
+    - title: "About"
+      url: /about/
+    - title: "Projects"
+      url: /projects/
+    - title: "Publications"
+      url: /publications/
+    - title: "CV"
+      url: /cv/
+
+# Default Page Layouts
+defaults:
+  # Main pages setup with author sidebar
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      sidebar:
+        nav: "main"
+
+# -----------------------------------------------------------------------------
+# Required GitHub Pages Plugins
+# -----------------------------------------------------------------------------
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown & Syntax Highlighting Settings
+markdown: kramdown
+highlighter: rouge
